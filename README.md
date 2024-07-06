@@ -38,8 +38,9 @@ The Jupyter notebook provided in this repository includes the following Python l
 - deepxde
 - numpy
 - scipy
+- math
 - matplotlib
-- pylab
+
 
 ## Usage
 
