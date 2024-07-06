@@ -63,11 +63,13 @@ jupyter notebook
 
 If you find this repository useful in your research, please consider citing our paper:
 ```bash
-@inproceedings{nodozi2023physicsinformed,
-  title={A Physics-informed Deep Learning Approach for Minimum Effort Stochastic Control of Colloidal Self-Assembly},
-  author={Nodozi, I. and O'Leary, J. and Mesbah, A. and Halder, A.},
-  booktitle={American Control Conference (ACC)},
-  year={2023}
+@inproceedings{nodozi2023physics,
+  title={A physics-informed deep learning approach for minimum effort stochastic control of colloidal self-assembly},
+  author={Nodozi, Iman and O’Leary, Jared and Mesbah, Ali and Halder, Abhishek},
+  booktitle={2023 American Control Conference (ACC)},
+  pages={609--615},
+  year={2023},
+  organization={IEEE}
 }
 ```
 ## Contact
