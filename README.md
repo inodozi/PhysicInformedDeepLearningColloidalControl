@@ -23,7 +23,7 @@ Training data in the domain $\Omega =[0,6]\times[0,200]$. We choose 1000 trainin
 After 15,000 training epochs, the residuals for all loss functions go below $10^{-3}$.
 
 ![Controlled PDFs](results/OptimallyControlledJointPDFsFromPINNwithKDEstemFromClosedLoppEM.png)
-Snapshots of the optimally controlled joint PDFs steering the order parameters distribution from the given initial distribution to terminal distribution over the given time horizon $[0,T]\equiv [0,200]$ s subject to the controlled noisy nonlinear sample path dynamics. The solid black curves with grey-filled areas are obtained from the PINN. The stem plots are the KDE approximants of the optimally controlled PDF snapshots obtained from the closed-loop sample paths.
+Snapshots of the optimally controlled joint PDFs steering the order parameters distribution from the given initial distribution to the given terminal distribution over the given time horizon $[0,T]\equiv [0,200]$ s subject to the controlled noisy nonlinear sample path dynamics. The solid black curves with grey-filled areas are obtained from the PINN. The stem plots are the KDE approximants of the optimally controlled PDF snapshots obtained from the closed-loop sample paths.
 
 
 ## Repository Contents
