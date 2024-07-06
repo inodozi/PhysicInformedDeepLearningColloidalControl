@@ -48,7 +48,7 @@ The Jupyter notebook provided in this repository includes the following Python l
 
 ```bash
 git clone https://github.com/inodozi/PhysicInformedDeepLearningColloidalControl.git
-cd ColloidalSelfAssemblyControl
+cd PhysicInformedDeepLearningColloidalControl
 ```
 2. Navigate to the notebooks directory and open the Jupyter notebooks to explore the simulations:
 
