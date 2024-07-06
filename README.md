@@ -29,8 +29,8 @@ Snapshots of the optimally controlled joint PDFs steering the order parameters d
 ## Repository Contents
 
 - **/code**: Contains the source code for the simulations.
-- **/data**: Includes datasets used in the simulations.
-- **/results**: Directory for storing the output of simulations.
+- **/data**: Includes datasets obtained from the simulations.
+- **/results**: Directory for storing the figures.
 
 ## Requirements
 
